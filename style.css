@@ -1,0 +1,9 @@
+.conditions-items-item--icon {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    border: 2px solid #000;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
